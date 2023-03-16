@@ -1,4 +1,4 @@
-# SatSure_Assingment
+# SatSure_Assignment
 
 This repository contains code for downloading Sentinel satellite data, preprocessing the data, and calculating the Normalized Difference Vegetation Index (NDVI) for the selected area of interest.
 
