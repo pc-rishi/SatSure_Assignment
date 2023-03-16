@@ -3,6 +3,7 @@
 This repository contains code for downloading Sentinel satellite data, preprocessing the data, and calculating the Normalized Difference Vegetation Index (NDVI) for the selected area of interest.
 
 **Getting Started**
+
 To use this code, you will need to have Python 3 and several packages installed, including:
 
 1.NumPy
@@ -13,6 +14,7 @@ To use this code, you will need to have Python 3 and several packages installed,
 These can be installed using pip or another package manager. You will also need to sign up for a free account on the Copernicus Open Access Hub in order to access the Sentinel data.
 
 **Workflow**
+
 The code is organized into three steps:
 
 1.Download Sentinel Data: This step involves downloading the Sentinel data for the area of interest using the Sentinel API. The code takes in several parameters, including the bounding box coordinates for the area of interest, the date range for the data, and the desired resolution.
@@ -23,4 +25,5 @@ The code is organized into three steps:
 
 
 **Contributing**
+
 Contributions are welcome! Please open an issue or pull request for any bug fixes, feature requests, or general improvements.
